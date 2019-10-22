@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/hello_flutter/hello_flutter.iml" filepath="$PROJECT_DIR$/hello_flutter/hello_flutter.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo2/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/demo2/android/app/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_flutter/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/hello_flutter/android/app/src/main/main1.iml" />
+      <module fileurl="file://F:/Demo/FlutterDemo/navigatorDemos-master/android/app/src/main/main2.iml" filepath="F:/Demo/FlutterDemo/navigatorDemos-master/android/app/src/main/main2.iml" />
+      <module fileurl="file://F:/Demo/FlutterDemo/navigatorDemos-master/android/app/src/main/main2.iml" filepath="F:/Demo/FlutterDemo/navigatorDemos-master/android/app/src/main/main2.iml" />
+      <module fileurl="file://F:/Demo/FlutterDemo/navigatorDemos-master/navigatorDemos-master.iml" filepath="F:/Demo/FlutterDemo/navigatorDemos-master/navigatorDemos-master.iml" />
+      <module fileurl="file://F:/Demo/FlutterDemo/navigatorDemos-master/navigatorDemos-master.iml" filepath="F:/Demo/FlutterDemo/navigatorDemos-master/navigatorDemos-master.iml" />
     </modules>
   </component>
 </project>
